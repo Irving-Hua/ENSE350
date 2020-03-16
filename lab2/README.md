@@ -26,4 +26,4 @@ The message to be encrypted: m
 Compute gcd(a,b)
 Find values of two integers s and t using Pulverizer or the Extended Euclidean algorithm method
 Compute the public and private keys
-Perform encryption and decryption.
+Perform encryption and decryption
