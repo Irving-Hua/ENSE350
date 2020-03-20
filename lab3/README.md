@@ -14,12 +14,15 @@ f(x) = 230x4 + 18x3 + 9x2 - 221x -9
 ### Requirements
 - Features:
 ```
-Compute gcd(a,b)
-Find values of two integers s and t using Pulverizer or the Extended Euclidean algorithm method
-Compute the public and private keys
-Perform encryption and decryption
+Compute given formula using different methods.
+The relative approximate error should be less than 0.01%.
 ```
 - Inputs:
 ```
 For 1: initial value for x.
-For 2: Bie
+For 2: lower limit and upper limit number, first init value x_1 and second init value x_2
+```
+-Outputs:
+```
+For 1: iteration times, approximate value root and error
+For 2: iteration times, approximate value root and error
