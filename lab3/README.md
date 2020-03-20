@@ -1,5 +1,5 @@
-# Lab 2
-The RSA Cryptosystem programming
+# Lab 3
+The Newton-Raphson, Bisection and Secant method for solving approximate roots problem within the error limit
 
 ### About
 ```
@@ -22,7 +22,7 @@ The relative approximate error should be less than 0.01%.
 For 1: initial value for x.
 For 2: lower limit and upper limit number, first init value x_1 and second init value x_2
 ```
--Outputs:
+- Outputs:
 ```
 For 1: iteration times, approximate value root and error
 For 2: iteration times, approximate value root and error
