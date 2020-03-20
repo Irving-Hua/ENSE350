@@ -7,6 +7,7 @@ Fundamental concepts of discrete mathematics (definitions, proofs, sets), discre
 ## Labs Delivery
 - Lab 1 - Euclidean Algorithm, Extended Euclidean Algoritm/Pulverizer, Fraction programming
 - Lab 2 - The RSA Cryptosystem programming
+- Lab 3 - The Newton Raphson Method, The Approximate Roots using the Bisection and Secant method
 
 ## Languages
 - Java
