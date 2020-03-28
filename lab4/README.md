@@ -3,26 +3,20 @@ The RSA Cryptosystem programming
 
 ### About
 ```
-1. Using Newton-Raphson method to solve(less than 0.01% error): 
-```
-![alt-text](formula.png "formula")
-```
-2. Using (a) the Bisection method and (b) the Secant method to solve(less than 0.01% error): 
-f(x) = 230x4 + 18x3 + 9x2 - 221x -9
+1. Using LU decomposition method to factorize a given square matrix and returns the triangular matrices [L] and [U]
 ```
 
 ### Requirements
 - Features:
 ```
-Compute given formula using different methods.
-The relative approximate error should be less than 0.01%.
+Test function by using it to solve the following system of linear equations:
+
+3(x1) - 2(x2) + (x3) = -10
+2(x1) + 6(x2) - (x4) = 44
+-8(x1) - 2(x2) + 5(x3) = -26
 ```
-- Inputs:
+- Outputs:
 ```
-For 1: initial value for x.
-For 2: lower limit and upper limit number, first init value x_1 and second init value x_2
+Print out [L] triangular matrix and [U] triangular matrix
+Checking [L] * [U] = [A]
 ```
--Outputs:
-```
-For 1: iteration times, approximate value root and error
-For 2: iteration times, approximate value root and error
