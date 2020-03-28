@@ -1,5 +1,5 @@
-# Lab 2
-The RSA Cryptosystem programming
+# Lab 4
+LU Decomposition
 
 ### About
 ```
