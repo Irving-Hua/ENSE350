@@ -9,6 +9,7 @@ Fundamental concepts of discrete mathematics (definitions, proofs, sets), discre
 - Lab 2 - The RSA Cryptosystem programming
 - Lab 3 - The Newton Raphson Method, The Approximate Roots using the Bisection and Secant method
 - Lab 4 - LU Factorization, [L] [U] triangular matrices
+- Lab 5 - Multiple Segement Trapezoidal to evaluate integral
 
 ## Languages
 - Java
