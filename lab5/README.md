@@ -1,22 +1,19 @@
 # Lab 4
-LU Decomposition
+Multiple Segment Trapezoidal
 
 ### About
 ```
-1. Using LU decomposition method to factorize a given square matrix and returns the triangular matrices [L] and [U]
+Write a program that will numerically integrate this function from -10 to 10 using multiple segment trapezoidal rule.
 ```
 
 ### Requirements
 - Features:
 ```
-Test function by using it to solve the following system of linear equations:
+Test function by using it to solve the following system of integral:
 
-3(x1) - 2(x2) + (x3) = -10
-2(x1) + 6(x2) - (x4) = 44
--8(x1) - 2(x2) + 5(x3) = -26
+f(x) = 2 - 5x + 10 * x^2 + 1/2 * x^3
 ```
-- Outputs:
+- Inputs:
 ```
-Print out [L] triangular matrix and [U] triangular matrix
-Checking [L] * [U] = [A]
+The number of segments should be an input to the program. Determine the true percent relative error and plot it as a function of the number of segments n.
 ```
